@@ -1,241 +1,2645 @@
-"ISO 3166 Country Code","Country","Latitude","Longitude"
-"AD","Andorra",42.5,1.5
-"AE","United Arab Emirates",24,54
-"AF","Afghanistan",33,65
-"AG","Antigua and Barbuda",17.05,-61.8
-"AI","Anguilla",18.25,-63.17
-"AL","Albania",41,20
-"AM","Armenia",40,45
-"AN","Netherlands Antilles",12.25,-68.75
-"AO","Angola",-12.5,18.5
-"AP","Asia/Pacific Region",35,105
-"AQ","Antarctica",-90,0
-"AR","Argentina",-34,-64
-"AS","American Samoa",-14.33,-170
-"AT","Austria",47.33,13.33
-"AU","Australia",-27,133
-"AW","Aruba",12.5,-69.97
-"AZ","Azerbaijan",40.5,47.5
-"BA","Bosnia and Herzegovina",44,18
-"BB","Barbados",13.17,-59.53
-"BD","Bangladesh",24,90
-"BE","Belgium",50.83,4
-"BF","Burkina Faso",13,-2
-"BG","Bulgaria",43,25
-"BH","Bahrain",26,50.55
-"BI","Burundi",-3.5,30
-"BJ","Benin",9.5,2.25
-"BM","Bermuda",32.33,-64.75
-"BN","Brunei Darussalam",4.5,114.67
-"BO","Bolivia",-17,-65
-"BR","Brazil",-10,-55
-"BS","Bahamas",24.25,-76
-"BT","Bhutan",27.5,90.5
-"BV","Bouvet Island",-54.43,3.4
-"BW","Botswana",-22,24
-"BY","Belarus",53,28
-"BZ","Belize",17.25,-88.75
-"CA","Canada",60,-95
-"CC","Cocos (Keeling) Islands",-12.5,96.83
-"CD","Congo, The Democratic Republic of the",0,25
-"CF","Central African Republic",7,21
-"CG","Congo",-1,15
-"CH","Switzerland",47,8
-"CI","Cote d'Ivoire",8,-5
-"CK","Cook Islands",-21.23,-159.77
-"CL","Chile",-30,-71
-"CM","Cameroon",6,12
-"CN","China",35,105
-"CO","Colombia",4,-72
-"CR","Costa Rica",10,-84
-"CU","Cuba",21.5,-80
-"CV","Cape Verde",16,-24
-"CX","Christmas Island",-10.5,105.67
-"CY","Cyprus",35,33
-"CZ","Czech Republic",49.75,15.5
-"DE","Germany",51,9
-"DJ","Djibouti",11.5,43
-"DK","Denmark",56,10
-"DM","Dominica",15.42,-61.33
-"DO","Dominican Republic",19,-70.67
-"DZ","Algeria",28,3
-"EC","Ecuador",-2,-77.5
-"EE","Estonia",59,26
-"EG","Egypt",27,30
-"EH","Western Sahara",24.5,-13
-"ER","Eritrea",15,39
-"ES","Spain",40,-4
-"ET","Ethiopia",8,38
-"EU","Europe",47,8
-"FI","Finland",64,26
-"FJ","Fiji",-18,175
-"FK","Falkland Islands (Malvinas)",-51.75,-59
-"FM","Micronesia, Federated States of",6.92,158.25
-"FO","Faroe Islands",62,-7
-"FR","France",46,2
-"GA","Gabon",-1,11.75
-"GB","United Kingdom",54,-2
-"GD","Grenada",12.12,-61.67
-"GE","Georgia",42,43.5
-"GF","French Guiana",4,-53
-"GH","Ghana",8,-2
-"GI","Gibraltar",36.18,-5.37
-"GL","Greenland",72,-40
-"GM","Gambia",13.47,-16.57
-"GN","Guinea",11,-10
-"GP","Guadeloupe",16.25,-61.58
-"GQ","Equatorial Guinea",2,10
-"GR","Greece",39,22
-"GS","South Georgia and the South Sandwich Islands",-54.5,-37
-"GT","Guatemala",15.5,-90.25
-"GU","Guam",13.47,144.78
-"GW","Guinea-Bissau",12,-15
-"GY","Guyana",5,-59
-"HK","Hong Kong",22.25,114.17
-"HM","Heard Island and McDonald Islands",-53.1,72.52
-"HN","Honduras",15,-86.5
-"HR","Croatia",45.17,15.5
-"HT","Haiti",19,-72.42
-"HU","Hungary",47,20
-"ID","Indonesia",-5,120
-"IE","Ireland",53,-8
-"IL","Israel",31.5,34.75
-"IN","India",20,77
-"IO","British Indian Ocean Territory",-6,71.5
-"IQ","Iraq",33,44
-"IR","Iran, Islamic Republic of",32,53
-"IS","Iceland",65,-18
-"IT","Italy",42.83,12.83
-"JM","Jamaica",18.25,-77.5
-"JO","Jordan",31,36
-"JP","Japan",36,138
-"KE","Kenya",1,38
-"KG","Kyrgyzstan",41,75
-"KH","Cambodia",13,105
-"KI","Kiribati",1.42,173
-"KM","Comoros",-12.17,44.25
-"KN","Saint Kitts and Nevis",17.33,-62.75
-"KP","Korea, Democratic People's Republic of",40,127
-"KR","Korea, Republic of",37,127.5
-"KW","Kuwait",29.34,47.66
-"KY","Cayman Islands",19.5,-80.5
-"KZ","Kazakhstan",48,68
-"LA","Lao People's Democratic Republic",18,105
-"LB","Lebanon",33.83,35.83
-"LC","Saint Lucia",13.88,-61.13
-"LI","Liechtenstein",47.17,9.53
-"LK","Sri Lanka",7,81
-"LR","Liberia",6.5,-9.5
-"LS","Lesotho",-29.5,28.5
-"LT","Lithuania",56,24
-"LU","Luxembourg",49.75,6.17
-"LV","Latvia",57,25
-"LY","Libyan Arab Jamahiriya",25,17
-"MA","Morocco",32,-5
-"MC","Monaco",43.73,7.4
-"MD","Moldova, Republic of",47,29
-"ME","Montenegro",42,19
-"MG","Madagascar",-20,47
-"MH","Marshall Islands",9,168
-"MK","Macedonia",41.83,22
-"ML","Mali",17,-4
-"MM","Myanmar",22,98
-"MN","Mongolia",46,105
-"MO","Macao",22.17,113.55
-"MP","Northern Mariana Islands",15.2,145.75
-"MQ","Martinique",14.67,-61
-"MR","Mauritania",20,-12
-"MS","Montserrat",16.75,-62.2
-"MT","Malta",35.83,14.58
-"MU","Mauritius",-20.28,57.55
-"MV","Maldives",3.25,73
-"MW","Malawi",-13.5,34
-"MX","Mexico",23,-102
-"MY","Malaysia",2.5,112.5
-"MZ","Mozambique",-18.25,35
-"NA","Namibia",-22,17
-"NC","New Caledonia",-21.5,165.5
-"NE","Niger",16,8
-"NF","Norfolk Island",-29.03,167.95
-"NG","Nigeria",10,8
-"NI","Nicaragua",13,-85
-"NL","Netherlands",52.5,5.75
-"NO","Norway",62,10
-"NP","Nepal",28,84
-"NR","Nauru",-0.53,166.92
-"NU","Niue",-19.03,-169.87
-"NZ","New Zealand",-41,174
-"OM","Oman",21,57
-"PA","Panama",9,-80
-"PE","Peru",-10,-76
-"PF","French Polynesia",-15,-140
-"PG","Papua New Guinea",-6,147
-"PH","Philippines",13,122
-"PK","Pakistan",30,70
-"PL","Poland",52,20
-"PM","Saint Pierre and Miquelon",46.83,-56.33
-"PR","Puerto Rico",18.25,-66.5
-"PS","Palestinian Territory",32,35.25
-"PT","Portugal",39.5,-8
-"PW","Palau",7.5,134.5
-"PY","Paraguay",-23,-58
-"QA","Qatar",25.5,51.25
-"RE","Reunion",-21.1,55.6
-"RO","Romania",46,25
-"RS","Serbia",44,21
-"RU","Russian Federation",60,100
-"RW","Rwanda",-2,30
-"SA","Saudi Arabia",25,45
-"SB","Solomon Islands",-8,159
-"SC","Seychelles",-4.58,55.67
-"SD","Sudan",15,30
-"SE","Sweden",62,15
-"SG","Singapore",1.37,103.8
-"SH","Saint Helena",-15.93,-5.7
-"SI","Slovenia",46,15
-"SJ","Svalbard and Jan Mayen",78,20
-"SK","Slovakia",48.67,19.5
-"SL","Sierra Leone",8.5,-11.5
-"SM","San Marino",43.77,12.42
-"SN","Senegal",14,-14
-"SO","Somalia",10,49
-"SR","Suriname",4,-56
-"ST","Sao Tome and Principe",1,7
-"SV","El Salvador",13.83,-88.92
-"SY","Syrian Arab Republic",35,38
-"SZ","Swaziland",-26.5,31.5
-"TC","Turks and Caicos Islands",21.75,-71.58
-"TD","Chad",15,19
-"TF","French Southern Territories",-43,67
-"TG","Togo",8,1.17
-"TH","Thailand",15,100
-"TJ","Tajikistan",39,71
-"TK","Tokelau",-9,-172
-"TM","Turkmenistan",40,60
-"TN","Tunisia",34,9
-"TO","Tonga",-20,-175
-"TR","Turkey",39,35
-"TT","Trinidad and Tobago",11,-61
-"TV","Tuvalu",-8,178
-"TW","Taiwan",23.5,121
-"TZ","Tanzania, United Republic of",-6,35
-"UA","Ukraine",49,32
-"UG","Uganda",1,32
-"UM","United States Minor Outlying Islands",19.28,166.6
-"US","United States",38,-97
-"UY","Uruguay",-33,-56
-"UZ","Uzbekistan",41,64
-"VA","Holy See (Vatican City State)",41.9,12.45
-"VC","Saint Vincent and the Grenadines",13.25,-61.2
-"VE","Venezuela",8,-66
-"VG","Virgin Islands, British",18.5,-64.5
-"VI","Virgin Islands, U.S.",18.33,-64.83
-"VN","Vietnam",16,106
-"VU","Vanuatu",-16,167
-"WF","Wallis and Futuna",-13.3,-176.2
-"WS","Samoa",-13.58,-172.33
-"YE","Yemen",15,48
-"YT","Mayotte",-12.83,45.17
-"ZA","South Africa",-29,24
-"ZM","Zambia",-15,30
-"ZW","Zimbabwe",-20,30
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5,42.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AD",
+    "Country":"Andorra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54,24 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AE",
+    "Country":"United Arab Emirates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65,33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AF",
+    "Country":"Afghanistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.8,17.05 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AG",
+    "Country":"Antigua and Barbuda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.17,18.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AI",
+    "Country":"Anguilla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,41 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AL",
+    "Country":"Albania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45,40 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AM",
+    "Country":"Armenia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.75,12.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AN",
+    "Country":"Netherlands Antilles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5,-12.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AO",
+    "Country":"Angola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,35 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AP",
+    "Country":"Asia/Pacific Region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,-90 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AQ",
+    "Country":"Antarctica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64,-34 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AR",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170,-14.33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AS",
+    "Country":"American Samoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.33,47.33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AT",
+    "Country":"Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,-27 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AU",
+    "Country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.97,12.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AW",
+    "Country":"Aruba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5,40.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"AZ",
+    "Country":"Azerbaijan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18,44 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BA",
+    "Country":"Bosnia and Herzegovina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.53,13.17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BB",
+    "Country":"Barbados"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90,24 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BD",
+    "Country":"Bangladesh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4,50.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BE",
+    "Country":"Belgium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,13 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BF",
+    "Country":"Burkina Faso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,43 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BG",
+    "Country":"Bulgaria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.55,26 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BH",
+    "Country":"Bahrain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-3.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BI",
+    "Country":"Burundi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.25,9.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BJ",
+    "Country":"Benin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75,32.33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BM",
+    "Country":"Bermuda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.67,4.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BN",
+    "Country":"Brunei Darussalam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65,-17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BO",
+    "Country":"Bolivia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55,-10 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BR",
+    "Country":"Brazil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,24.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BS",
+    "Country":"Bahamas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.5,27.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BT",
+    "Country":"Bhutan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.4,-54.43 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BV",
+    "Country":"Bouvet Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,-22 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BW",
+    "Country":"Botswana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28,53 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BY",
+    "Country":"Belarus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.75,17.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"BZ",
+    "Country":"Belize"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95,60 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CA",
+    "Country":"Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.83,-12.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CC",
+    "Country":"Cocos (Keeling) Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,0 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CD",
+    "Country":"Congo, The Democratic Republic of the"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21,7 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CF",
+    "Country":"Central African Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,-1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CG",
+    "Country":"Congo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CH",
+    "Country":"Switzerland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CI",
+    "Country":"Cote d'Ivoire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.77,-21.23 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CK",
+    "Country":"Cook Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71,-30 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CL",
+    "Country":"Chile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12,6 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CM",
+    "Country":"Cameroon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,35 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CN",
+    "Country":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72,4 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CO",
+    "Country":"Colombia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84,10 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CR",
+    "Country":"Costa Rica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80,21.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CU",
+    "Country":"Cuba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24,16 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CV",
+    "Country":"Cape Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.67,-10.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CX",
+    "Country":"Christmas Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33,35 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CY",
+    "Country":"Cyprus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5,49.75 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"CZ",
+    "Country":"Czech Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,51 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DE",
+    "Country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43,11.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DJ",
+    "Country":"Djibouti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,56 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DK",
+    "Country":"Denmark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.33,15.42 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DM",
+    "Country":"Dominica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.67,19 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DO",
+    "Country":"Dominican Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3,28 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"DZ",
+    "Country":"Algeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5,-2 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"EC",
+    "Country":"Ecuador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26,59 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"EE",
+    "Country":"Estonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,27 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"EG",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13,24.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"EH",
+    "Country":"Western Sahara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ER",
+    "Country":"Eritrea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4,40 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ES",
+    "Country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ET",
+    "Country":"Ethiopia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"EU",
+    "Country":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26,64 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FI",
+    "Country":"Finland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175,-18 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FJ",
+    "Country":"Fiji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59,-51.75 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FK",
+    "Country":"Falkland Islands (Malvinas)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.25,6.92 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FM",
+    "Country":"Micronesia, Federated States of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7,62 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FO",
+    "Country":"Faroe Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2,46 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"FR",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.75,-1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GA",
+    "Country":"Gabon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,54 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GB",
+    "Country":"United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.67,12.12 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GD",
+    "Country":"Grenada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.5,42 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GE",
+    "Country":"Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53,4 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GF",
+    "Country":"French Guiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GH",
+    "Country":"Ghana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.37,36.18 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GI",
+    "Country":"Gibraltar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -40,72 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GL",
+    "Country":"Greenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.57,13.47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GM",
+    "Country":"Gambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10,11 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GN",
+    "Country":"Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.58,16.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GP",
+    "Country":"Guadeloupe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,2 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GQ",
+    "Country":"Equatorial Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22,39 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GR",
+    "Country":"Greece"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37,-54.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GS",
+    "Country":"South Georgia and the South Sandwich Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.25,15.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GT",
+    "Country":"Guatemala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.78,13.47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GU",
+    "Country":"Guam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15,12 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GW",
+    "Country":"Guinea-Bissau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59,5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"GY",
+    "Country":"Guyana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17,22.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HK",
+    "Country":"Hong Kong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.52,-53.1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HM",
+    "Country":"Heard Island and McDonald Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HN",
+    "Country":"Honduras"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5,45.17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HR",
+    "Country":"Croatia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.42,19 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HT",
+    "Country":"Haiti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"HU",
+    "Country":"Hungary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,-5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ID",
+    "Country":"Indonesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8,53 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IE",
+    "Country":"Ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.75,31.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IL",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77,20 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IN",
+    "Country":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.5,-6 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IO",
+    "Country":"British Indian Ocean Territory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44,33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IQ",
+    "Country":"Iraq"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53,32 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IR",
+    "Country":"Iran, Islamic Republic of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18,65 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IS",
+    "Country":"Iceland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.83,42.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"IT",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5,18.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"JM",
+    "Country":"Jamaica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36,31 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"JO",
+    "Country":"Jordan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,36 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"JP",
+    "Country":"Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KE",
+    "Country":"Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75,41 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KG",
+    "Country":"Kyrgyzstan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,13 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KH",
+    "Country":"Cambodia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173,1.42 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KI",
+    "Country":"Kiribati"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.25,-12.17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KM",
+    "Country":"Comoros"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.75,17.33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KN",
+    "Country":"Saint Kitts and Nevis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,40 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KP",
+    "Country":"Korea, Democratic People's Republic of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.5,37 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KR",
+    "Country":"Korea, Republic of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.66,29.34 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KW",
+    "Country":"Kuwait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5,19.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KY",
+    "Country":"Cayman Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68,48 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"KZ",
+    "Country":"Kazakhstan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,18 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LA",
+    "Country":"Lao People's Democratic Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.83,33.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LB",
+    "Country":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.13,13.88 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LC",
+    "Country":"Saint Lucia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.53,47.17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LI",
+    "Country":"Liechtenstein"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81,7 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LK",
+    "Country":"Sri Lanka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5,6.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LR",
+    "Country":"Liberia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.5,-29.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LS",
+    "Country":"Lesotho"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,56 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LT",
+    "Country":"Lithuania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.17,49.75 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LU",
+    "Country":"Luxembourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,57 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LV",
+    "Country":"Latvia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17,25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"LY",
+    "Country":"Libyan Arab Jamahiriya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,32 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MA",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4,43.73 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MC",
+    "Country":"Monaco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29,47 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MD",
+    "Country":"Moldova, Republic of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19,42 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ME",
+    "Country":"Montenegro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47,-20 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MG",
+    "Country":"Madagascar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168,9 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MH",
+    "Country":"Marshall Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22,41.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MK",
+    "Country":"Macedonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4,17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ML",
+    "Country":"Mali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98,22 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MM",
+    "Country":"Myanmar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,46 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MN",
+    "Country":"Mongolia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.55,22.17 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MO",
+    "Country":"Macao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.75,15.2 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MP",
+    "Country":"Northern Mariana Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61,14.67 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MQ",
+    "Country":"Martinique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12,20 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MR",
+    "Country":"Mauritania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.2,16.75 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MS",
+    "Country":"Montserrat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.58,35.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MT",
+    "Country":"Malta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.55,-20.28 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MU",
+    "Country":"Mauritius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73,3.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MV",
+    "Country":"Maldives"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34,-13.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MW",
+    "Country":"Malawi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102,23 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MX",
+    "Country":"Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5,2.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MY",
+    "Country":"Malaysia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,-18.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"MZ",
+    "Country":"Mozambique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17,-22 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NA",
+    "Country":"Namibia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.5,-21.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NC",
+    "Country":"New Caledonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,16 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NE",
+    "Country":"Niger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.95,-29.03 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NF",
+    "Country":"Norfolk Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,10 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NG",
+    "Country":"Nigeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85,13 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NI",
+    "Country":"Nicaragua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.75,52.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NL",
+    "Country":"Netherlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,62 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NO",
+    "Country":"Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84,28 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NP",
+    "Country":"Nepal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.92,-0.53 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NR",
+    "Country":"Nauru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.87,-19.03 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NU",
+    "Country":"Niue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174,-41 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"NZ",
+    "Country":"New Zealand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57,21 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"OM",
+    "Country":"Oman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80,9 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PA",
+    "Country":"Panama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,-10 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PE",
+    "Country":"Peru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -140,-15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PF",
+    "Country":"French Polynesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147,-6 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PG",
+    "Country":"Papua New Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,13 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PH",
+    "Country":"Philippines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70,30 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PK",
+    "Country":"Pakistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,52 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PL",
+    "Country":"Poland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33,46.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PM",
+    "Country":"Saint Pierre and Miquelon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.5,18.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PR",
+    "Country":"Puerto Rico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25,32 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PS",
+    "Country":"Palestinian Territory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8,39.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PT",
+    "Country":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.5,7.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PW",
+    "Country":"Palau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58,-23 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"PY",
+    "Country":"Paraguay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.25,25.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"QA",
+    "Country":"Qatar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.6,-21.1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"RE",
+    "Country":"Reunion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,46 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"RO",
+    "Country":"Romania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21,44 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"RS",
+    "Country":"Serbia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,60 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"RU",
+    "Country":"Russian Federation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-2 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"RW",
+    "Country":"Rwanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45,25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SA",
+    "Country":"Saudi Arabia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159,-8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SB",
+    "Country":"Solomon Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.67,-4.58 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SC",
+    "Country":"Seychelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SD",
+    "Country":"Sudan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,62 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SE",
+    "Country":"Sweden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8,1.37 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SG",
+    "Country":"Singapore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.7,-15.93 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SH",
+    "Country":"Saint Helena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,46 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SI",
+    "Country":"Slovenia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,78 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SJ",
+    "Country":"Svalbard and Jan Mayen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5,48.67 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SK",
+    "Country":"Slovakia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.5,8.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SL",
+    "Country":"Sierra Leone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.42,43.77 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SM",
+    "Country":"San Marino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14,14 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SN",
+    "Country":"Senegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49,10 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SO",
+    "Country":"Somalia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56,4 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SR",
+    "Country":"Suriname"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7,1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ST",
+    "Country":"Sao Tome and Principe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.92,13.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SV",
+    "Country":"El Salvador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,35 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SY",
+    "Country":"Syrian Arab Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.5,-26.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"SZ",
+    "Country":"Swaziland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.58,21.75 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TC",
+    "Country":"Turks and Caicos Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TD",
+    "Country":"Chad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67,-43 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TF",
+    "Country":"French Southern Territories"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.17,8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TG",
+    "Country":"Togo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TH",
+    "Country":"Thailand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71,39 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TJ",
+    "Country":"Tajikistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172,-9 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TK",
+    "Country":"Tokelau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 60,40 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TM",
+    "Country":"Turkmenistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,34 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TN",
+    "Country":"Tunisia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175,-20 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TO",
+    "Country":"Tonga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,39 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TR",
+    "Country":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61,11 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TT",
+    "Country":"Trinidad and Tobago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178,-8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TV",
+    "Country":"Tuvalu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,23.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TW",
+    "Country":"Taiwan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,-6 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"TZ",
+    "Country":"Tanzania, United Republic of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32,49 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"UA",
+    "Country":"Ukraine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32,1 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"UG",
+    "Country":"Uganda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.6,19.28 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"UM",
+    "Country":"United States Minor Outlying Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97,38 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"US",
+    "Country":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56,-33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"UY",
+    "Country":"Uruguay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64,41 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"UZ",
+    "Country":"Uzbekistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,41.9 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VA",
+    "Country":"Holy See (Vatican City State)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2,13.25 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VC",
+    "Country":"Saint Vincent and the Grenadines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66,8 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VE",
+    "Country":"Venezuela"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5,18.5 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VG",
+    "Country":"Virgin Islands, British"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.83,18.33 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VI",
+    "Country":"Virgin Islands, U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,16 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VN",
+    "Country":"Vietnam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167,-16 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"VU",
+    "Country":"Vanuatu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.2,-13.3 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"WF",
+    "Country":"Wallis and Futuna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.33,-13.58 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"WS",
+    "Country":"Samoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48,15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"YE",
+    "Country":"Yemen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.17,-12.83 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"YT",
+    "Country":"Mayotte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,-29 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ZA",
+    "Country":"South Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-15 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ZM",
+    "Country":"Zambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-20 ]
+    },
+    "properties": {
+    "ISO 3166 Country Code":"ZW",
+    "Country":"Zimbabwe"
+    }
+  }
+]
+}
