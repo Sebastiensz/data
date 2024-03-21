@@ -110,8 +110,6 @@
             }
         },
 {
-    "features": [
-        {
             "type": "Feature",
             "properties": {
                 "CLIENT": "RandomCorp",
